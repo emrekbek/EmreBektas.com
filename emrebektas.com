@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Emre Kadir Bektaş - Yazılım Mühendisi</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+    <style>
+      body {
+        background-color: #f8f8f8;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #333;
+      }
+      header {
+        background-color: #2d4059;
+        color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      }
+      h1 {
+        font-size: 36px;
+        margin: 0;
+        text-align: center;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+      }
+      .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 40px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+      }
+      ul {
+        list-style: none;
+        padding: 0;
+      }
+      li {
+        margin-bottom: 10px;
+      }
+      footer {
+        background-color: #2d4059;
+        color: #fff;
+        text-align: center;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Emre Kadir Bektaş</h1>
+    </header>
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Ben, programlamada güçlü bir altyapıya ve karmaşık problemleri çözmeye olan tutkuya sahip bir yazılım mühendisiyim.</p>
+      <p>Liseye Geçiş Sınavında derece yaparak TED Antalya Koleji'ne %100 burs ile girme hakkı kazandım. Oradaki yıllarımda MUN, Basketbol Kulübü ve Bilgisayar Olimpiyatları gibi etkinliklere katılarak bulabildiğim her şansta kendimi geliştirdim. YKS'de de başarılı bir sonuçla Bahçeşehir Üniversitesi Yazılım Mühendisliği bölümünü %100 bursla kazandım. Fakat biraz dinlenmek ve zaten iyi olan İngilizce becerilerimi daha profesyonel bir seviyeye getirmek için hazırlık okumaya karar verdim. Hazırlığı yarım dönemde başarıyla geçtim ve okulumu dondurup iş hayatında tecrübe edinmeye karar verdim. Kendime yeni beceriler katabilecek, kurumsal iş hayatını ve bilmediğim bir çok şeyi öğrenebilecek bir iş arıyorum.</p>
+      <h2>Skills</h2>
+      <ul>
+        <li>Yazılım Dilleri: C++, Python</li>
+        <li>Araçlar: Git, Microsoft Office, Microsoft Word, Microsoft Excel</li>
+	<li>Diller: Türkçe(Anadil), İngilizce(C1)</li>
+      </ul>
+    
